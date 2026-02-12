@@ -306,7 +306,16 @@ Learn more about the <a href="https://meshery.io/community#meshmates">MeshMates<
 
 ## Contributing
 
-Please do! We're a warm and welcoming community of open source contributors. Please join. All types of contributions are welcome. Be sure to read the [Contributor Guides](https://docs.meshery.io/project/contributing) for a tour of resources available to you and how to get started.
+Please do! We're a warm and welcoming community of open source contributors. Please join. All types of contributions are welcome. 
+
+### New to Meshery? Start Here! 👋
+
+If you're a **new contributor** or **student** looking to make your first contribution:
+- 📚 Read our [**Getting Started Guide**](GETTING_STARTED.md) - A comprehensive guide covering how to understand the codebase, build it locally, and create your first PR
+- 🎯 Check out issues labeled [`good first issue`](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+label%3A%22good+first+issue%22)
+- 💬 Join our [Slack community](https://slack.meshery.io) to get help and connect with other contributors
+
+For more detailed information, be sure to read the [Contributor Guides](https://docs.meshery.io/project/contributing) for a tour of resources available to you and how to get started.
 
 <!-- <a href="https://youtu.be/MXQV-i-Hkf8"><img alt="Deploying Linkerd with Meshery" src="https://docs.meshery.io/assets/img/readme/deploying-linkerd-with-meshery.png" width="100%" align="center" /></a> -->
 
